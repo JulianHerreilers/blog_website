@@ -16,6 +16,6 @@ JS(\hat{y} || y) &= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y
 \end{aligned}
 \] -->
 
-Planning to look at machine translation
+Planning to look at language modelling, spoken language modelling or word discovery. 
 
 <!-- Autoencoder uses $$ \boldsymbol{a}=\boldsymbol{w} \boldsymbol{x} $$ -->

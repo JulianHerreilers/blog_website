@@ -1,6 +1,7 @@
 baseURL: "https://examplesite.com/"
 title: Julian's Headspace
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -77,17 +78,19 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hallo!"
-    Content: I am a final year Electronic Engineering masters student at Stellenbosch University. 
-            My current research is related to improving low-resouce keyword spotting for Humanitarian monitoring under [Thomas Niesler](https://dsp.sun.ac.za/~trn/index.html). 
-            Previously I did a final year project in Afrikaans text-to-speech under [Herman Kamper](https://www.kamperh.com/) 
-            where my fascination about NLP and speech processing began.
+    Content: |
+      I am a naturally inquisitive person and currently a speech engineer at Saigen.
+      I recently completed a Masters which used acoustic word embeddings to improve under-resourced keyword spotting for Humanitarian monitoring under [Thomas Niesler](https://dsp.sun.ac.za/~trn/index.html).
+      Previously, I did a final year project in Afrikaans text-to-speech under [Herman Kamper](https://www.kamperh.com/), where my fascination with NLP and speech processing began.
+      
+      &nbsp;&nbsp; I am really interested in speech applications for low-resource languages. 
+      In my free time, I like to keep myself busy reading — particularly history — finding places with great cake, and hiking in the mountains.
 
+      &nbsp;&nbsp; My idea with this website is to be an online space for future projects as well as notes I make while learning new concepts.
+      Basically, this is a space to show all the learnings (from trial and error) and hopefully help someone else find some semblance of value from it.
 
-            My idea idea with this website is to be an online space for future projects as well as notes I make while learning new concepts.
-            Basically this is a space to show all the learnings (from trial and error) and hoping someone else can find some semblance of value from it.
+      *"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." ~ Samuel Beckett*
 
-
-            *"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." ~ Samuel Beckett*
 
   # socialIcons:
   #   - name: x
