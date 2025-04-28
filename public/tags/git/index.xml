@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Notes on Julian&#39;s Headspace</title>
-    <link>https://examplesite.com/notes/</link>
-    <description>Recent content in Notes on Julian&#39;s Headspace</description>
+    <title>Git on Julian&#39;s Headspace</title>
+    <link>https://examplesite.com/tags/git/</link>
+    <description>Recent content in Git on Julian&#39;s Headspace</description>
     <image>
       <title>Julian&#39;s Headspace</title>
       <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,20 +12,13 @@
     <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://examplesite.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://examplesite.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to create and maintain a private git repo</title>
       <link>https://examplesite.com/notes/create_private_git_repo/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://examplesite.com/notes/create_private_git_repo/</guid>
       <description>A simple guide for beginners to create and maintain a private Git repository.</description>
-    </item>
-    <item>
-      <title>Loading first Notes post</title>
-      <link>https://examplesite.com/notes/notes_first_post/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/notes/notes_first_post/</guid>
-      <description>blank post.</description>
     </item>
   </channel>
 </rss>

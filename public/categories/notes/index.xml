@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://examplesite.com/categories/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to create and maintain a private git repo</title>
+      <link>https://examplesite.com/notes/create_private_git_repo/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/notes/create_private_git_repo/</guid>
+      <description>A simple guide for beginners to create and maintain a private Git repository.</description>
+    </item>
     <item>
       <title>Loading first Notes post</title>
       <link>https://examplesite.com/notes/notes_first_post/</link>
